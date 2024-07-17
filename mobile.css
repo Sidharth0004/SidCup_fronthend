@@ -1,0 +1,71 @@
+@media  screen and (max-width:1233px) {
+    #page4 h1{
+        font-size: 6vw;
+        top: -4%;
+    } 
+    #about-us-in p {
+        font-size: 1.5vw;
+        line-height: 24px;
+    }
+    #about-us-in h3 {
+        font-size: 4vw;
+        font-weight: 800;
+        margin-bottom: 23px;
+    }
+    #about-us img {
+        height: 20vh;
+        width: 18vw;
+        border-radius: 20px;
+        object-fit: cover;
+    }
+    #about-us-in {
+        height: 76%;
+        width: 50%;
+        text-align: center;
+    }
+
+    .elem {
+        height: 78%;
+        width: 70%;
+        
+    }
+    #page1 {
+        height: 71vh;
+        padding-top: 105px;
+    }
+    #page4{
+        flex-direction: column;
+        height: 100vh;
+        gap: 17px;
+    }
+    #cards-container{
+        flex-direction: column;
+    }
+.overlay{
+    padding-top: 79px;
+}
+.card{
+    width:  80%;
+    height: 31%;
+}
+#cards-container {
+    height: 87vh;
+    gap: 17px;
+   
+}
+#page3{
+    height: 85vh;
+}
+#page3 #colon1 {
+    left: 11%;
+    top: 23%;
+}
+#page3>p {
+    font-size: 4vw;
+    font-weight: 700;
+    width: 60%;
+    line-height: 41px;
+    text-align: center;
+}
+
+}
